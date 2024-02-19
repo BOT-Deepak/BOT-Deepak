@@ -14,7 +14,7 @@
   <a href="https://auth.geeksforgeeks.org/user/o3_1o">
     <img src="https://img.shields.io/badge/GeeksForGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GeeksForGeeks Badge"/>
   </a>
-  <a href="https://www.codechef.com/users/medeepak0_0">
+  <a href="https://www.codechef.com/users/o3_10">
     <img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge"/>
   </a>
 </div>
