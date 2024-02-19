@@ -11,6 +11,9 @@
   </a>
 </div>
 <div id="badges1" align="center">
+  <a href="https://www.codingninjas.com/studio/profile/o3_1o">
+    <img src="https://img.shields.io/badge/CodingNinja-orange?style=for-the-badge&logo=codingninja&logoColor=white" alt="CodingNinja Badge"/>
+  </a>
   <a href="https://auth.geeksforgeeks.org/user/o3_1o">
     <img src="https://img.shields.io/badge/GeeksForGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GeeksForGeeks Badge"/>
   </a>
