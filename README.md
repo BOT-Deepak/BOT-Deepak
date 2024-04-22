@@ -35,9 +35,9 @@
 ### 👨‍💻 About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a frontend and backend for building applications using Flutter.
-- :seedling: Exploring full stack development with Java.
-- :zap: In love solving LeetCode problems and reading tech articles.
+- :telescope: I am trying to be a good Competitive Programmer.
+- :seedling: Exploring multiple full stack developments.
+- :zap: In love with solving LeetCode problems and reading tech articles.
 - 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Deepak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-sharma-03oct2002/)
 
 ---
